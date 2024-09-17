@@ -55,7 +55,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/DSA-Java.git
+git clone https://github.com/rutvij-patil24/DSA-Java/
 Navigate to the desired folder for the concept or algorithm you want to explore.
 Compile and run the code using a Java IDE or the command line.
 
