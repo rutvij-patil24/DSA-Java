@@ -1,5 +1,5 @@
 
-## DSA and Algorithms in Java
+## Data Structures and Algorithms in Java
 
 Welcome to the DSA and Algorithms in Java repository! This repository contains code examples for fundamental data structures and algorithms implemented in Java. The purpose of this repository is to help you understand basic Java concepts and how to apply them to various sorting algorithms, data structures, and threading concepts.
 
