@@ -1,66 +1,91 @@
-DSA and Algorithms in Java
+
+## DSA and Algorithms in Java
 
 Welcome to the DSA and Algorithms in Java repository! This repository contains code examples for fundamental data structures and algorithms implemented in Java. The purpose of this repository is to help you understand basic Java concepts and how to apply them to various sorting algorithms, data structures, and threading concepts.
 
-Table of Contents
-Java Basics
-OOP (Object-Oriented Programming)
-Classes and Interfaces
-Collection APIs
-Threading in Java
-Sorting Algorithms
-Bubble Sort
-Selection Sort
-Insertion Sort
-Quick Sort
-Merge Sort
-Data Structures
-Linked List
-Stack
-Queue
-Tree
-Java Basics
-This section covers the fundamental concepts of Java programming:
+## Table of Contents
 
-Object-Oriented Programming (OOP): Explore classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
-Classes and Interfaces: Learn how to use Java classes, interfaces, and their key features.
-Collection APIs: A look into Java's Collection framework, including List, Set, and Map.
-Threading in Java: Understand how to manage multiple threads and perform concurrent tasks in Java.
+### Java Basics 
+- OOP (Object-Oriented Programming) 
+- Classes and Interfaces 
+- Collection APIs 
+- Threading in Java 
 
-Sorting Algorithms
-This section contains popular sorting algorithms implemented in Java:
+### Sorting Algorithms 
+- Bubble Sort 
+- Selection Sort 
+- Insertion Sort 
+- Quick Sort 
+- Merge Sort 
 
-Bubble Sort: A simple comparison-based sorting algorithm.
+### Data Structures 
+- Linked List 
+- Stack 
+- Queue 
+- Tree
 
-Selection Sort: An in-place comparison sorting algorithm.
 
-Insertion Sort: A simple and intuitive comparison-based sorting algorithm.
+## VS Code Keyboard Shortcuts for Java (Thank me later!)
 
-Quick Sort: A highly efficient sorting algorithm using the divide-and-conquer technique.
+- sout → System.out.println();
+- main → public static void main(String[] args) {}
+- psvm → public static void main(String[] args)
+- fori → Standard for loop:
 
-Merge Sort: A stable, efficient, comparison-based sorting algorithm that divides the array and merges sorted subarrays.
+```java
+for (int i = 0; i < ; i++) {
+}
+```
 
-Data Structures
-This section covers important data structures and their implementations in Java:
+- foreach → Enhanced for loop:
+```java
+for (Object object : collection) {
+}
+```
 
-Linked List: A linear data structure where each element is a separate object (node) linked using pointers.
+- trycatch → try-catch block:
+```java
+try {
+} catch (Exception e) {
+}
+```
 
-Stack: A LIFO (Last In, First Out) data structure used to store elements in a particular order.
+- ifelse → if-else block:
+```java
+if (condition) {
+} else {
+}
+```
 
-Queue: A FIFO (First In, First Out) data structure that processes elements in a specific sequence.
+## General Keyboard Shortcuts for Java in VS Code:
+- Run the program: Ctrl + F5 (Windows/Linux), Cmd + F5 (Mac)
+- Run with Debugger: F5
+- Show IntelliSense suggestions: Ctrl + Space (Windows/Linux), Cmd + Space (Mac)
+- Go to Definition: F12
+- Peek Definition: Alt + F12
+- Go to Implementation: Ctrl + F12 (Windows/Linux), Cmd + Option + B (Mac)
+- Find References: Shift + F12
+- Quick Fix / Auto Import: Ctrl + . (Windows/Linux), Cmd + . (Mac)
+- Rename Symbol: F2
+- Format Code: Shift + Alt + F (Windows/Linux), Shift + Option + F (Mac)
+- Toggle Comment: Ctrl + / (Windows/Linux), Cmd + / (Mac)
+- Block Comment/Uncomment: Shift + Alt + A (Windows/Linux), Shift + Option + A (Mac)
+- Find in File: Ctrl + F (Windows/Linux), Cmd + F (Mac)
+- Replace in File: Ctrl + H (Windows/Linux), Cmd + Option + F (Mac)
+- Go to File: Ctrl + P (Windows/Linux), Cmd + P (Mac)
+- Navigate Between Open Files: Ctrl + Tab (Windows/Linux), Cmd + Tab (Mac)
 
-Tree: A hierarchical data structure with nodes representing values, linked to each other through parent-child relationships.
+## How to Clone this repository
 
-How to Use
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/rutvij-patil24/DSA-Java/
-Navigate to the desired folder for the concept or algorithm you want to explore.
-Compile and run the code using a Java IDE or the command line.
+To clone this reporitory run
 
-Contribution
-Feel free to contribute by submitting pull requests or raising issues if you find any bugs or improvements!
+```bash
+  git clone https://github.com/rutvij-patil24/DSA-Java
+```
+Navigate to the desired folder for the concept or algorithm you want to explore. Compile and run the code using a Java IDE or the command line.
 
-License
-This repository is open-source and available under the MIT License.
+
+## Author
+
+- [@rutvij-patil24](https://github.com/rutvij-patil24/)
+
