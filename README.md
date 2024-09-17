@@ -3,7 +3,7 @@
 
 Welcome to the DSA and Algorithms in Java repository! This repository contains code examples for fundamental data structures and algorithms implemented in Java. The purpose of this repository is to help you understand basic Java concepts and how to apply them to various sorting algorithms, data structures, and threading concepts.
 
-### Table of Contents
+## Table of Contents
 
 Java Basics 
 - OOP (Object-Oriented Programming) 
@@ -25,7 +25,7 @@ Data Structures
 - Tree
 
 
-### VS Code Keyboard Shortcuts for Java (Thank me later!)
+## VS Code Keyboard Shortcuts for Java (Thank me later!)
 
 - sout → System.out.println();
 - main → public static void main(String[] args) {}
@@ -57,7 +57,7 @@ if (condition) {
 }
 ```
 
-### General Keyboard Shortcuts for Java in VS Code:
+## General Keyboard Shortcuts for Java in VS Code:
 - Run the program: Ctrl + F5 (Windows/Linux), Cmd + F5 (Mac)
 - Run with Debugger: F5
 - Show IntelliSense suggestions: Ctrl + Space (Windows/Linux), Cmd + Space (Mac)
@@ -75,7 +75,7 @@ if (condition) {
 - Go to File: Ctrl + P (Windows/Linux), Cmd + P (Mac)
 - Navigate Between Open Files: Ctrl + Tab (Windows/Linux), Cmd + Tab (Mac)
 
-### How to Clone this repository
+## How to Clone this repository
 
 To clone this reporitory run
 
