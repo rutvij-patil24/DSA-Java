@@ -5,20 +5,20 @@ Welcome to the DSA and Algorithms in Java repository! This repository contains c
 
 ## Table of Contents
 
-Java Basics 
+### Java Basics 
 - OOP (Object-Oriented Programming) 
 - Classes and Interfaces 
 - Collection APIs 
 - Threading in Java 
 
-Sorting Algorithms 
+### Sorting Algorithms 
 - Bubble Sort 
 - Selection Sort 
 - Insertion Sort 
 - Quick Sort 
 - Merge Sort 
 
-Data Structures 
+### Data Structures 
 - Linked List 
 - Stack 
 - Queue 
