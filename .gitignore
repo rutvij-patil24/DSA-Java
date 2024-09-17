@@ -1,0 +1,50 @@
+# Ignore class files
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Ignore compiled files
+*.o
+*.so
+*.dll
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+
+# Ignore Mac system files
+.DS_Store
+
+# Eclipse/IntelliJ IDEA project files
+/.classpath
+/.project
+/.settings/
+/.idea/
+/*.iml
+
+# VS Code workspace settings
+.vscode/
+
+# Ignore build directories
+/build/
+/bin/
+target/
+
+# Maven dependencies
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+
+# Gradle files
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore node_modules in case of JS dependencies
+node_modules/
+
+# Ignore environment files
+.env
