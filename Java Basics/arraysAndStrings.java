@@ -19,9 +19,6 @@ class Student{
     public String toString() {
         return "Student [rollNo: " + rollNo + ", Name: " + name + "]";
     }
-
-    
-    
 }
 
 
@@ -76,9 +73,5 @@ public class arraysAndStrings {
         for (Student s : students) {
             System.out.println(s);            
         }
-
-
-
-
     }
 }
