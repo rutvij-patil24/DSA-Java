@@ -7,12 +7,14 @@ Welcome to the Data Structures and Algorithms in Java repository! This repositor
 
 ### Java Basics 
 - OOP (Object-Oriented Programming) 
-- Classes and Interfaces
-- ENUM
+- Classes and Inheritance
+- Abstract classes and Interfaces
 - Access Modifiers
+- Error Handling
 - HashMap and HashSet
+- ENUM
 - ArrayList
-- Collection APIs
+- Java Collection
 - Threading in Java 
 
 ### Sorting Algorithms 
