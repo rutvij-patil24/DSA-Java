@@ -6,6 +6,10 @@ abstract class Computer{
     // 2 rules:
     // If a method is abstract, then class MUST be abstract
     // If a class is abstract, then its methods MAY or MAY NOT be abstract
+
+    public void printSomething(){
+        System.out.println("Hello World!");
+    }
 }
 
 
@@ -48,6 +52,9 @@ public class abstractExample {
         Developer dev1 = new Developer();
 
         dev1.Code(lap1);
-        dev1.Code(desk1);
+        lap1.printSomething();
+
+        dev1.Code(desk1);        
+        desk1.printSomething();
     }
 }

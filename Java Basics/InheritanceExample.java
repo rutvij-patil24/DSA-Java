@@ -106,6 +106,11 @@ public class InheritanceExample {
         System.out.println("Bike Details:");
         myBike.displayDetails();  // Calls the Bike's version of displayDetails
         myBike.start();  // Calls the overridden start method of Bike
+
+
+        // Basic difference between method overloading and method overriding:
+        // Overloading - Same method name different parameters
+        // Overriding - Same method name as well as parameters (Used while inheritance)
     }
 }
 
