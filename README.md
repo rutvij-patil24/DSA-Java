@@ -10,10 +10,9 @@ Welcome to the Data Structures and Algorithms in Java repository! This repositor
 - Classes and Inheritance
 - Abstract classes and Interfaces
 - Access Modifiers
-- Error Handling
-- HashMap and HashSet
+- Exception Handling
+- HashMap, HashSet and ArrayList
 - ENUM
-- ArrayList
 - Java Collection
 - Threading in Java 
 
