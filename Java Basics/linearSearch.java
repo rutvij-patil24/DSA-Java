@@ -4,7 +4,7 @@ public class linearSearch {
         
         int nums[] = {5,7,9,11,13};
 
-        int target = 55;
+        int target = 11;
 
         int result = linear_search(nums, target);
 
