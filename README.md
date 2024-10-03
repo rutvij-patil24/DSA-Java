@@ -13,7 +13,8 @@ Welcome to the Data Structures and Algorithms in Java repository! This repositor
 - Exception Handling
 - HashMap, HashSet and ArrayList (Collection Interface)
 - ENUM
-- Threading in Java 
+- Threading in Java
+- Linear and Binary Search
 
 ### Sorting Algorithms 
 - Bubble Sort 
@@ -27,6 +28,7 @@ Welcome to the Data Structures and Algorithms in Java repository! This repositor
 - Stack 
 - Queue 
 - Tree
+- Heap (Min Heap, Max Heap)
 
 
 ## VS Code Keyboard Shortcuts for Java (Thank me later!)
