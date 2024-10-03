@@ -45,7 +45,7 @@ public class bubbleSort {
 // Repeat passes: Repeat the entire process for the remaining unsorted portion until the array is fully sorted.
 
 // Time Complexity:
-// Worst-case and average-case: O(n²) (because of the two nested loops).
+// Worst-case is O(n²) (because of the two nested loops).
 
 // Space Complexity:
 // O(1) (since sorting is done in place, requiring no extra space).
