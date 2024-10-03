@@ -27,6 +27,18 @@ import java.util.ArrayList;
 
 public class ArrayListExample {
     public static void main(String[] args) {
+        
+        // Ambiguity in Java
+        ArrayList eg1 = new ArrayList();
+        eg1.add(1);
+        eg1.add(2);
+        eg1.add(3);
+        eg1.add(4);
+        eg1.add("Rutvij");
+
+        System.out.println(eg1);
+        
+        
         // Step 1: Create an ArrayList of Strings
         ArrayList<String> drivers = new ArrayList<>();
 
