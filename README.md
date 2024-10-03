@@ -11,9 +11,8 @@ Welcome to the Data Structures and Algorithms in Java repository! This repositor
 - Abstract classes and Interfaces
 - Access Modifiers
 - Exception Handling
-- HashMap, HashSet and ArrayList
+- HashMap, HashSet and ArrayList (Collection Interface)
 - ENUM
-- Java Collection
 - Threading in Java 
 
 ### Sorting Algorithms 
