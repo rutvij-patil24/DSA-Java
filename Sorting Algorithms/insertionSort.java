@@ -3,7 +3,7 @@ public class insertionSort {
 
     public static void main(String[] args) {
         
-        int nums[] = {34, 7, 23, 32, 5, 62, 12, 15, 78, 1};
+        int nums[] = {34, 7, 23, 34, 5, 62, 12, 15, 78, 1};
 
 
         System.out.println("Before sorting:");
