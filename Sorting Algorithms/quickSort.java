@@ -71,7 +71,7 @@ public class quickSort {
 }
 
 
-// Quick Sort Description an Steps:
+// Quick Sort Description and Steps:
 // Divide and Conquer: Quick sort uses the divide-and-conquer approach by selecting a pivot element and partitioning the array into two halves.
 // Partitioning: Elements smaller than the pivot are moved to the left, and larger elements are moved to the right.
 // Recursive Sorting: The quick sort function recursively sorts the left and right halves after partitioning.
